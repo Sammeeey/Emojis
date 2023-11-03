@@ -1,0 +1,10 @@
+.Emojis .Emoji {
+    font-size: 2em;
+    cursor: pointer;
+}
+
+.Emojis button {
+    display: block;
+    margin: 1em auto;
+    background-color: coral;
+}
